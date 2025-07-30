@@ -32,9 +32,9 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,figma,photoshop,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,photoshop,vscode" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=uipath,firebase,mongodb,git,github,vercel,linux,ai" />
+  <img src="https://skillicons.dev/icons?i=uipath,vercel,ai" />
 </p>
 
 ---
