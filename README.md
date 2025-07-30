@@ -52,14 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pugalesan-pugal&show_icons=true&theme=react" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pugalesan-pugal&theme=react" alt="GitHub Streak" height="180"/>
-</p>
-
----
 
 ### 🔗 Connect with Me
 
