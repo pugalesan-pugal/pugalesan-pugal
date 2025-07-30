@@ -28,15 +28,6 @@
 - 🧠 Building bots that make life simpler  
 
 ---
-
-### ⚙️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,photoshop,vscode" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=uipath,vercel,ai" />
-</p>
-
 ---
 
 ### 📌 Highlighted Projects
